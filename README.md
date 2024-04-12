@@ -9,7 +9,7 @@ pragma solidity ^0.8.18;
 
 contract DegenGaming {
     address public owner;
-    string public gameName = "Degen Gaming";
+    string public gameName = "Degen Gaming Token";
     string public gameSymbol = "Degen";
     uint8 public gameDecimals = 10;
     uint256 public totalSupply = 0;
